@@ -1,0 +1,365 @@
+CustomerId,ItemId,itemcount
+1,Facebook,1
+1, Google  Plus,1
+1,Whatsapp,1
+1, Facebook Messenger,1
+1, Skype,1
+1,Instagram,1
+1, Snapchat,1
+1, Boomerang,1
+2,Facebook,1
+2, LinkedIn,1
+2,Whatsapp,1
+2, Allo,1
+2, Facebook Messenger,1
+2,Instagram,1
+2,PayTM,1
+3,Facebook,1
+3, Twitter,1
+3, LinkedIn,1
+3,Whatsapp,1
+3, Facebook Messenger,1
+3, Hangouts,1
+3, Skype,1
+3,Instagram,1
+3, Snapchat,1
+3, Google Photos,1
+3, Boomerang,1
+4,Facebook,1
+4, LinkedIn,1
+4, Google  Plus,1
+4,Whatsapp,1
+4, Hike,1
+4, Facebook Messenger,1
+4, Telegram,1
+4, Skype,1
+4,Instagram,1
+4, Snapchat,1
+4, Boomerang,1
+5,Facebook,1
+5,Whatsapp,1
+5, Facebook Messenger,1
+5,Instagram,1
+5, Pixlr,1
+5, Snapseed,1
+6,Facebook,1
+6,Whatsapp,1
+6, Hike,1
+6, Allo,1
+6, Telegram,1
+6,Google Photos,1
+7,Facebook,1
+7, Google  Plus,1
+7,Whatsapp,1
+7, Facebook Messenger,1
+7, Hangouts,1
+7, Skype,1
+7,Instagram,1
+7, Snapchat,1
+7, Prisma,1
+7, Snapseed,1
+7, Google Photos,1
+7, Boomerang,1
+9,Facebook,1
+9, Google  Plus,1
+9,Whatsapp,1
+9, Facebook Messenger,1
+9, Skype,1
+9,Instagram,1
+9, Snapchat,1
+9, Google Photos,1
+10,Facebook,1
+10, Google  Plus,1
+10,Whatsapp,1
+10, Facebook Messenger,1
+10,Instagram,1
+11,Facebook,1
+11,Whatsapp,1
+11,Instagram,1
+11, Snapchat,1
+12,Whatsapp,1
+12,Instagram,1
+12, Google Photos,1
+13,Twitter,1
+13, LinkedIn,1
+13,Whatsapp,1
+13, Hike,1
+13,Instagram,1
+13, Snapchat,1
+14,Facebook,1
+14, Twitter,1
+14, LinkedIn,1
+14, Pinterest,1
+14, Reddit,1
+14,Whatsapp,1
+14, Hike,1
+14, Facebook Messenger,1
+14, Skype,1
+14,Instagram,1
+14, Snapchat,1
+14, Pixlr,1
+14, Boomerang,1
+15,Facebook,1
+15, Twitter,1
+15,Whatsapp,1
+15, Facebook Messenger,1
+15, Hangouts,1
+15,Instagram,1
+15, Snapchat,1
+15, Google Photos,1
+16,Facebook,1
+16, LinkedIn,1
+16, Instagram,1
+16,Whatsapp,1
+16, Facebook Messenger,1
+16, Hangouts,1
+16, Skype,1
+16,Instagram,1
+16, Snapchat,1
+16, Prisma,1
+16, Boomerang,1
+17,Facebook,1
+17, Twitter,1
+17, LinkedIn,1
+17,Whatsapp,1
+17, Hike,1
+17, Facebook Messenger,1
+17, Skype,1
+17,Instagram,1
+17, Snapseed,1
+18,Facebook,1
+18,Whatsapp,1
+18, Facebook Messenger,1
+18,Instagram,1
+18, Snapchat,1
+18, Pixlr,1
+18, Google Photos,1
+18, Adobe Photoshop Express,1
+19,Facebook,1
+19, LinkedIn,1
+19, Google  Plus,1
+19,Whatsapp,1
+19, Facebook Messenger,1
+19, Skype,1
+19,Instagram,1
+19, Snapchat,1
+19, Prisma,1
+19, Boomerang,1
+20,Facebook,1
+20, LinkedIn,1
+20,Whatsapp,1
+20, Facebook Messenger,1
+20, Hangouts,1
+21,Facebook,1
+21, LinkedIn,1
+21, Google  Plus,1
+21,Whatsapp,1
+21, Hike,1
+21, Allo,1
+21, Facebook Messenger,1
+21, Hangouts,1
+21, Telegram,1
+21, Skype,1
+21,Instagram,1
+21, Snapchat,1
+21, Prisma,1
+22,Facebook,1
+22, LinkedIn,1
+22, Google  Plus,1
+22,Whatsapp,1
+22, Facebook Messenger,1
+22,Instagram,1
+22, Snapchat,1
+22, Snapseed,1
+22, Google Photos,1
+22, PayTM,1
+23,Facebook,1
+23, LinkedIn,1
+23,Whatsapp,1
+23,Instagram,1
+24,Facebook,1
+24,Whatsapp,1
+25,Facebook,1
+25,Whatsapp,1
+25,Instagram,1
+25, Snapchat,1
+26,Facebook,1
+26, LinkedIn,1
+26,Whatsapp,1
+26,Instagram,1
+26, Snapchat,1
+26, Snapseed,1
+27,Facebook,1
+27, Google  Plus,1
+27,Whatsapp,1
+28,LinkedIn,1
+28,Whatsapp,1
+29,Facebook,1
+29, Pinterest,1
+29,Whatsapp,1
+29, Facebook Messenger,1
+29,Instagram,1
+29, Snapchat,1
+30,Facebook,1
+30, LinkedIn,1
+30, Google  Plus,1
+30, Pinterest,1
+30,Whatsapp,1
+30, Facebook Messenger,1
+30, Hangouts,1
+30, Skype,1
+30,Instagram,1
+30, Snapchat,1
+30, Prisma,1
+30, Google Photos,1
+30, Boomerang,1
+30,PayTM,1
+31,Facebook,1
+31, LinkedIn,1
+31, Google  Plus,1
+31,Whatsapp,1
+31, Facebook Messenger,1
+31,Instagram,1
+31, Snapchat,1
+31, Pixlr,1
+31, Snapseed,1
+31, Boomerang,1
+32,Facebook,1
+32, LinkedIn,1
+32,Whatsapp,1
+32, Facebook Messenger,1
+32, Skype,1
+32,Instagram,1
+33,Facebook,1
+33,Whatsapp,1
+33, Skype,1
+33,Snapchat,1
+33,7 Minutes,1
+33,GRE Flashcards,1
+33, Coursera,1
+34,Facebook,1
+34, LinkedIn,1
+34, Google  Plus,1
+34,Whatsapp,1
+34, Facebook Messenger,1
+34, Skype,1
+34,Instagram,1
+34, Snapchat,1
+34, Google Photos,1
+35,Facebook,1
+35, LinkedIn,1
+35, Google  Plus,1
+35,Whatsapp,1
+35, Facebook Messenger,1
+35, Telegram,1
+35,Instagram,1
+35, Snapchat,1
+35, Google Photos,1
+36,Facebook,1
+36, Google  Plus,1
+36,Whatsapp,1
+36,Instagram,1
+37,Facebook,1
+37, Twitter,1
+37, LinkedIn,1
+37, Google  Plus,1
+37, Pinterest,1
+37, Tumblr,1
+37, Reddit,1
+37, Flickr,1
+37,Whatsapp,1
+37, Hike,1
+37, Facebook Messenger,1
+37, Telegram,1
+37,Instagram,1
+37, Snapchat,1
+37, Prisma,1
+38,Facebook,1
+38,Whatsapp,1
+38,Instagram,1
+39,Facebook,1
+39, Google  Plus,1
+39,Whatsapp,1
+39, Hike,1
+39, Allo,1
+39, Facebook Messenger,1
+39, Skype,1
+39,Instagram,1
+39, Snapchat,1
+39, Google Photos,1
+40,Facebook,1
+40, Google  Plus,1
+40,Whatsapp,1
+40, Allo,1
+40, Facebook Messenger,1
+40, Skype,1
+40,Instagram,1
+40, Snapchat,1
+41,Facebook,1
+41, Twitter,1
+41, LinkedIn,1
+41, Reddit,1
+41,Whatsapp,1
+41, Skype,1
+41,Instagram,1
+41, Snapchat,1
+41, Google Photos,1
+42,LinkedIn,1
+42, Google  Plus,1
+42,Whatsapp,1
+42, Hike,1
+42, Skype,1
+43,Facebook,1
+43, Twitter,1
+43, LinkedIn,1
+43,Whatsapp,1
+43, Facebook Messenger,1
+43, Hangouts,1
+43,Instagram,1
+43, Google Photos,1
+44,Facebook,1
+44, LinkedIn,1
+44, Pinterest,1
+44,Whatsapp,1
+44, Facebook Messenger,1
+44, Skype,1
+44,Instagram,1
+44, Snapchat,1
+45,Facebook,1
+45, LinkedIn,1
+45, instagram,1
+45,Whatsapp,1
+45, Skype,1
+45,Instagram,1
+45, Freecharge,1
+46,Facebook,1
+46,Whatsapp,1
+46, Facebook Messenger,1
+46,Instagram,1
+46, Snapseed,1
+47,Whatsapp,1
+47, Skype,1
+47,Instagram,1
+48,Facebook,1
+48, Twitter,1
+48,Whatsapp,1
+48, Facebook Messenger,1
+48, Skype,1
+48,Instagram,1
+48, Adobe Lightroom Mobile,1
+48, Adobe Photoshop Express,1
+49,Facebook,1
+49, Twitter,1
+49, LinkedIn,1
+49,Whatsapp,1
+49, Facebook Messenger,1
+49,Instagram,1
+49, Snapchat,1
+49, VSCO,1
+50,Facebook,1
+50, LinkedIn,1
+50,Whatsapp,1
+50, Facebook Messenger,1
+50, Telegram,1
+50,Instagram,1
+50, Snapchat,1
